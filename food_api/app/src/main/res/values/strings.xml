@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">food_api</string>
+    <string name="query_hint">Pizza ...</string>
+</resources>
